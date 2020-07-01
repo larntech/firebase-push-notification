@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972181924205",
+    "firebase_url": "https://notification-d8712.firebaseio.com",
+    "project_id": "notification-d8712",
+    "storage_bucket": "notification-d8712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972181924205:android:f56a2707428c93eca81264",
+        "android_client_info": {
+          "package_name": "net.larntech.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972181924205-5e8d5fd8c1gdkd5us57l80p1kcg53scb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.larntech.notification",
+            "certificate_hash": "e722ac2d06ed2c2846a3dfb89b0257d3e07ea39a"
+          }
+        },
+        {
+          "client_id": "972181924205-kamk9onj8is60n3sb9f0e0mq4uoq9ho0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9eXoewpD19jO5yXV-vI55eCZ3jRb3XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972181924205-kamk9onj8is60n3sb9f0e0mq4uoq9ho0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
